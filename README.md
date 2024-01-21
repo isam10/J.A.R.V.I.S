@@ -10,23 +10,8 @@ Instagram Profile Analysis: Explore Instagram profiles and download profile pict
 System Commands: Control system actions such as opening the command prompt, managing the camera, and handling system shutdown or restart.
 File Operations: Hide or unhide files and folders, take screenshots, and set alarms.
 Temperature Check: Get the current temperature through a Google search and web scraping.
-Installation
-Clone the repository:
 
-bash
-Copy code
-git clone https://github.com/isam10/J.A.R.V.I.S.git
-cd Jarvis-Virtual-Assistant
-Install the required dependencies:
 
-bash
-Copy code
-pip install #required libraries which are mentioned in the code 
-Run the main script:
-
-bash
-Copy code
-python main.py
 Usage
 Launch the application and click the "Start" button.
 Jarvis will initialize and wait for the wake-up command ("wake up," "are you there," or "hello").
